@@ -20,7 +20,7 @@ leader." The leader is a second joke competing with the first, and
 the long "can order ... and tell me exactly when" build wastes words
 the judge's neatness criterion punishes. The final cuts the leader,
 compresses the build to "orders milk I never asked for, tracks it to
-its expiry day", and ends exactly on "union", tightening 182 to 144
+its expiry day", and ends exactly on "union", tightening 182 to 142
 characters with the punch as the last word.
 """
 

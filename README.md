@@ -12,7 +12,7 @@ Bounty: https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-
 
 > My smart fridge orders milk I never asked for, tracks it to its expiry day, and still won't warn me the leftovers in back have formed a union.
 
-144 characters. The target is a smart fridge: it auto-orders groceries and tracks expiry dates, yet says nothing about the leftovers forgotten at the back — which, given long enough, have organised themselves.
+142 characters. The target is a smart fridge: it auto-orders groceries and tracks expiry dates, yet says nothing about the leftovers forgotten at the back — which, given long enough, have organised themselves.
 
 ## How it works
 
